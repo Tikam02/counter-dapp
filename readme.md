@@ -7,9 +7,4 @@
 
 
 
-counter.sol 
 
-```
-So in counter.sol we have 3 functions and one public variable which maintains the counter.
-By Default, a contract state is read-only unless it is specified as public, so we have made all the functions public.
-```
